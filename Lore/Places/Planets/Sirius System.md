@@ -1,5 +1,5 @@
 
-![[Pasted image 20240312204451.png]]
+![[sirius system.png]]
 There are 7 planets in the solar system, and in order from closest to furthest from the star Sirius they are:
 - [[Pier]], the most technologically advanced planet, required a set up of multiple ozone-emitting pillars to strengthen the atmosphere due to its closeness to the blue sun. 
 - [[Trough]], the smallest planet, co-orbiting with [[Statio]]. It was typically used as a refueling point for ships. It has an abnormally high amount of mineral deposits and so is also the system's most prominent mining planet. Highly toxic gas permeate the atmosphere due to this and most people require entire hazard suits to live here. 
