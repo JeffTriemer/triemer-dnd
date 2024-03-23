@@ -1,0 +1,1 @@
+Weird guy we met during [[Train Heist]]. He has noticed the #hecale people in [[The Party]], so [[Flip Reebes]] decided to keep him close during the mission. He is capable of decent #Tech, and has shown the ability to disable cameras.
