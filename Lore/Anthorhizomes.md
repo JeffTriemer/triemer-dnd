@@ -15,7 +15,7 @@ Vim is only 19 years old!
 I am a voracious, carnivorous eater and love to eat 3 meals a day, roughly equivalent to 100 thousand human calories, by aggressively decomposing high caloric foods into my scientifically fictitious rich soil. I always keep my soil busy decaying food in the day. My appetite has never once in my life been met and any other ferns would refer to me as malnourished. This shows in my body as the foliage has slightly yellowed, although I hope it may come back over time as my new government pay kicks in and allows me to satiate my endless appetite.
 ### Reproduction
 Vims reproduce asexually via mitosis
-### Vims Culture
+### Culture
 My people communicate more by intuition and feel than language
 
 We are always faintly connected, feeling one another's emotions, thoughts, and senses, but the closer we get the more connected we are. Touching vims cannot lie to each other, unless one is significantly more developed & older, as the may have developed past a younger Vims understanding.
