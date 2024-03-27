@@ -13,7 +13,7 @@ Vim is part of a small race, [[Anthorhizomes]]
 	  data-date='20068' 
 	  data-title='Vim is born' 
 	  data-class='green' 
-	  data-img = 'pics/Vim.png' 
+	  data-img = 'Other\TTRPG\SW5e\triemerdnd\pics\Vim.png' 
 	  data-type='range' 
 	  data-end='20068'> 
 	</span>
@@ -30,11 +30,6 @@ His true name VM(CCAGTAACTGG...)
 - But my name is technically 6.4 Trillion + 2 letters long
 
 Only need to meditate for four hours, but he eats voraciously
-
-
-
-
-
 
 See [[Vim's Background]] for more...
 

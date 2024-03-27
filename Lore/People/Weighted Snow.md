@@ -1,1 +1,1 @@
-Organization behind some attack at a bank? Appears to be some #terrorist revolutionary organiziation.
+Likely psuedonym of [[Dagonet]] behind some attack at a bank? Appears to be some #terrorist.
