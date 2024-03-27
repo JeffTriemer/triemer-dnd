@@ -1,8 +1,7 @@
 Planet part of the [[Sirius System]], the most technologically advanced planet, required a set up of multiple ozone-emitting pillars to strengthen the atmosphere due to its closeness to the blue sun. 
 
-[[Reuse]] - largest city on Pier. Built on top of a pillar. Formerly the largest exporter of goods from pier.
+[[Reuse]] - largest city on Pier. Built on top of a pillar. Formerly the largest exporter of goods from pier. Has trains to [[Partil]]
 [[Partil]] - Sister city to Pier. Built on a neighboring pillar. This city provides the remnants of its manufacturing force for pier. 
-
 
 One food shipment every ~2 months
 Atmosphere held up by [[the Pillars]], which still appear to be working

@@ -6,7 +6,7 @@ tags:
 ## Details
 This mission was offered by [[Setebos]]. The reward will be 1000 credits, and 7 days of rations for all five members of [[The Party]]. In addition, we are provided comm links and 250 credits to execute the mission with.
 ### Rules
-1. Infiltrate the 7 pm train 312 going to #Partil
+1. Infiltrate the 7 pm train 312 going to [[Partil]]
 2. Locate and extract a specific container
 3. Do not be loud
 4. Do not kill anyone
