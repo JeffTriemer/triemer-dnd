@@ -7,7 +7,7 @@ tags:
   - Hecale
 ---
 ![[Vim.png]]
-Vim is part of a small race, [[Anthorhizomes]]
+Vim is part of a small race, [[Other/TTRPG/SW5e/triemerdnd/Lore/Things/Anthorhizome]]
 <span 
 	  class='ob-timelines' 
 	  data-date='20068' 
