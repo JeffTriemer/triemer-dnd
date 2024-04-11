@@ -1,4 +1,4 @@
-#pc #coward
+#pc #coward #human #male
 Chris' character
 
 # Seems like this person doesn't do much crime

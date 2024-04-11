@@ -5,6 +5,10 @@ tags:
   - timeline
   - vim
   - Hecale
+  - anthrorisome
+  - alien
+  - "#leet"
+  - haxorz
 ---
 ![[Vim.png]]
 Vim is part of a small race, [[Other/TTRPG/SW5e/triemerdnd/Lore/Things/Anthorhizome]]
