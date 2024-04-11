@@ -6,10 +6,11 @@ Sister city to [[Partil]]. Built on an ozone emitting [[the Pillars|pillar]]. Th
 
 ## Important Places
 
-[[Trete]]'s Treat
+#### Downtown
 [[Correo]] general store
-Downtown
-
+[[Setebos]]'s place?
+#### The Outskirts
+[[Trete]]'s Treat
 ## Important residents:
 
 [[The Party]]
