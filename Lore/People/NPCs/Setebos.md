@@ -1,4 +1,4 @@
-known #female #Hecale 
+known #female #Hecale #alien
 Scaly Alien
 Crime Boss
 Seems professional, and powerful
