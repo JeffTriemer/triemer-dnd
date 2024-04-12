@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a621ca61e16af339","type":"file","file":"Lore/Missions/Train Heist.md","x":-380,"y":-234,"width":400,"height":400},
+		{"id":"8ab235f9be14ba72","type":"file","file":"Lore/Missions/The missing Courier.md","x":100,"y":-234,"width":400,"height":400},
+		{"id":"723e9b8ef672d531","type":"file","file":"Lore/Missions/Find the Train Heist's purpose.md","x":560,"y":-234,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"08070223a3ea0252","fromNode":"8ab235f9be14ba72","fromSide":"right","toNode":"723e9b8ef672d531","toSide":"left"},
+		{"id":"93495a93cedba690","fromNode":"a621ca61e16af339","fromSide":"right","toNode":"8ab235f9be14ba72","toSide":"left"}
+	]
+}
