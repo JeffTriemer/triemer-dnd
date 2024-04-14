@@ -4,3 +4,11 @@ We're hosting this for a readily accessible form of notes for our SW5e campaign,
 
 Let's explore the [[Sirius System]] and share what we find!!!
 
+### Graph Legend
+| Group | Color |
+| ----------- | ----------- |
+| Tags | Green |
+| Chris Notes | Yellow |
+| Jeff Notes | Red |
+| PCs | Cyan |
+| NPCs | Blue |
