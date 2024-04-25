@@ -37,4 +37,7 @@ Only need to meditate for four hours, but he eats voraciously
 
 See [[Vim's Background]] for more...
 
+## Notes from the [[Stolen Purger Info]]:
+
+![[Stolen Purger Info#Vim]]
 
