@@ -10,3 +10,7 @@ Flip appears to be a part of the [[Reebes]] family, a well known family name, as
 
 
 #### appears to be a #Hecale 
+
+## Notes from the [[Stolen Purger Info]]:
+
+![[Stolen Purger Info#Flip Reebes]]
