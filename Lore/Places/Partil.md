@@ -2,6 +2,8 @@ Sister city to [[Reuse]]. Built on a neighboring pillar. This city provides the 
 
 Where the [[The Partil Rail Attack]] occured.
 
+## Important Places
 ## Important People
 
 [[Puck]]
+[[Mayor Gawaine Banil]]

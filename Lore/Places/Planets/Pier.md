@@ -9,3 +9,4 @@ One food shipment every ~2 months
 Atmosphere held up by [[the Pillars]], which still appear to be working
 
 Pier is the most technologically advanced planet in the system. This is a byproduct of all the research required to terraform the planet. Multiple ozone-emitting pillars build a thick atmosphere that is resilient to the harsh rays of the start Sirius. This provides the insulation necessary to host life and humanity on the planet.
+

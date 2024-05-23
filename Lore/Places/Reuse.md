@@ -9,6 +9,7 @@ Sister city to [[Partil]]. Built on an ozone emitting [[the Pillars|pillar]]. Th
 #### Downtown
 [[Correo]] general store
 [[Setebos]]'s place?
+[[Einspur]]'s Hangar
 #### The Outskirts
 [[Trete]]'s Treat
 ## Important residents:
@@ -19,4 +20,6 @@ Sister city to [[Partil]]. Built on an ozone emitting [[the Pillars|pillar]]. Th
 [[Iod]]
 [[Trete]]
 [[Correo]]
+[[Einspur]]
+
 
