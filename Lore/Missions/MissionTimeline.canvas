@@ -3,11 +3,13 @@
 		{"id":"a621ca61e16af339","type":"file","file":"Lore/Missions/Train Heist.md","x":-380,"y":-234,"width":400,"height":400},
 		{"id":"8ab235f9be14ba72","type":"file","file":"Lore/Missions/The missing Courier.md","x":100,"y":-234,"width":400,"height":400},
 		{"id":"723e9b8ef672d531","type":"file","file":"Lore/Missions/Find the Train Heist's purpose.md","x":560,"y":-234,"width":400,"height":400},
-		{"id":"12d0cd68a272274e","x":1040,"y":-234,"width":400,"height":400,"type":"file","file":"Lore/Missions/Deliver A Package to Partil.md"}
+		{"id":"12d0cd68a272274e","type":"file","file":"Lore/Missions/Deliver A Package to Partil.md","x":1040,"y":-234,"width":400,"height":400},
+		{"id":"c2e7282e9008ba1e","x":1560,"y":-234,"width":400,"height":400,"type":"file","file":"Lore/Missions/Find Puck.md"}
 	],
 	"edges":[
 		{"id":"08070223a3ea0252","fromNode":"8ab235f9be14ba72","fromSide":"right","toNode":"723e9b8ef672d531","toSide":"left"},
 		{"id":"93495a93cedba690","fromNode":"a621ca61e16af339","fromSide":"right","toNode":"8ab235f9be14ba72","toSide":"left"},
-		{"id":"696b5fce0a93a081","fromNode":"723e9b8ef672d531","fromSide":"right","toNode":"12d0cd68a272274e","toSide":"left"}
+		{"id":"696b5fce0a93a081","fromNode":"723e9b8ef672d531","fromSide":"right","toNode":"12d0cd68a272274e","toSide":"left"},
+		{"id":"0c2b9c618593673d","fromNode":"12d0cd68a272274e","fromSide":"right","toNode":"c2e7282e9008ba1e","toSide":"left"}
 	]
 }
