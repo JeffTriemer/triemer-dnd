@@ -1,0 +1,16 @@
+- writes in his cabin
+- he sent some kid to the bottom of the lake to find the nexus???
+
+- [[Mistblades of tarios]]
+	- reported to the king but enforced fair laws
+	- sing the results of their trials
+	- disappeared before the war of man
+	- used the nexus as their base
+	- used mist colored magic
+		- color has some connection to str/weakness
+		- i show my magic
+			- ive seen that blue she was guarding the nexus last i saw her
+			- 360 years ago
+	- mistblades left forever go, why did they go
+- elves / non human creatures invaded
+- wood elves of avaliene - Oberyn's wife attacked the land

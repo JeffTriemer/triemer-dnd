@@ -1,1 +1,0 @@
-The name for the magical energy that some individuals has access to. Used to be highly researched but when the Collapse befell the entire system, the research and practice of [[Hecalia]] was banned and the [[Purger|purgers]] were formed to take out people who can cast spells, the #Hecale.
