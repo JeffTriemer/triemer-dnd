@@ -1,3 +1,0 @@
-#planet of the [[Sirius System]]
-
-Co-orbiting with [[Trough]]. The first planet chosen for terraforming. The second most populated planet. The birthplace of a rebellion years ago. One that was brutally stomped down in retaliation from [[Siriopus]]. Has struggled to recuperate after it. The Terraforming granted the planet with very fertile ground and so it is the main food supplier for the entire empire. 

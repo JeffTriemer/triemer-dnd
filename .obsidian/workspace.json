@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "693c7f9bb8e9ec62",
+    "type": "split",
+    "children": [
+      {
+        "id": "7632638f54974baf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "294296e71e7b7646",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fea70c962fc55aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e18323d857991f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46095e4456ed6d13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a803c2d93cf8830",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dread tide",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e1346e514b3c3dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "right": {
+    "id": "92b78f66d4067068",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7b0ddafce329847",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f9c2d34ceebb836",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8046813ad2853465",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0e6bac7b1d55a50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8be064b01fa54788",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8289048c78ca61ae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "294296e71e7b7646",
+  "lastOpenFiles": [
+    "Strixxhaven One Shot.md",
+    "README.md",
+    "zzz_pics/yt ads.png",
+    "zzz_pics/Vim.png",
+    "zzz_pics/scale-location example.png",
+    "zzz_pics/residuals vs leverage.png",
+    "zzz_pics/Pasted image 20240321234536.png",
+    "zzz_pics/Pasted image 20240321234507.png",
+    "zzz_pics/Pasted image 20240321234438.png",
+    "zzz_pics/Pasted image 20240320210829.png",
+    "zzz_pics/Pasted image 20240315144055.png",
+    "zzz_pics/Pasted image 20240312204451.png",
+    "zzz_pics",
+    "SW5e/Lore/People/PCs/Vim.md",
+    "SW5e/Lore/People/PCs/Flip Reebes.md",
+    "SW5e/Lore/People/PCs/Bungle.md",
+    "SW5e/Lore/People/PCs/Ardolus.md",
+    "SW5e/Lore/People/PCs/Ajax.md",
+    "SW5e/Lore/Places/Planets/Trough.md",
+    "SW5e/Lore/Places/Planets/Urbos.md",
+    "SW5e/Lore/Places/Planets/Statio.md",
+    "SW5e/Lore/Places/Planets/Sirius System.md",
+    "SW5e/Lore/Places/Planets/Pier.md",
+    "SW5e/Lore/Places/Planets/Fresnel.md",
+    "SW5e/Lore/Places/Planets/Cable.md",
+    "SW5e/Lore/Places/Planets/Afferem.md",
+    "SW5e/Lore/People/PCs",
+    "SW5e/Lore/People/Setebos.md",
+    "SW5e/Lore/Places/Void.md",
+    "SW5e/Lore/Places/Siriopus.md",
+    "SW5e/Lore/Places/Planets",
+    "SW5e/Session notes/2.md",
+    "SW5e/Session notes/1.md",
+    "SW5e/Secrets/Vim's Background.md",
+    "SW5e/Secrets/Timeline.md",
+    "SW5e/Secrets/Reebes.md",
+    "SW5e/Secrets/Purgers.md",
+    "SW5e/Secrets/Maddox.md",
+    "SW5e/Secrets/How to play.md",
+    "SW5e/Lore/Places",
+    "SW5e/Lore/People",
+    "SW5e/Session notes",
+    "SW5e/Secrets",
+    "SW5e/Lore",
+    "SW5e",
+    "Kids on Bikes- Pit City/Locations",
+    "TTRPG/Edea campaign/Untitled.canvas"
+  ]
+}

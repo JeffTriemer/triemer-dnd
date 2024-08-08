@@ -1,0 +1,1 @@
+often drunk, goes on benders in the east ruins
